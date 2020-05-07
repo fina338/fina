@@ -1,0 +1,2 @@
+# fina
+tugas uts fina
